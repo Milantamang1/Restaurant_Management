@@ -1,0 +1,12 @@
+# Ignore Python bytecode and caches
+*.pyc
+pycache/
+
+# Ignore environment and database files
+.env
+*.sqlite3
+
+# Ignore virtual environments
+venv/
+env/
+
